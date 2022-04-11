@@ -1,0 +1,64 @@
+{
+	"actors":[
+		{
+			"name": "Akshaykumar",
+			"birthday": "1967-09-09 ",
+			"gender": "Male",
+			"married" :"Yes"
+		},
+		{
+			"name": "Shraddha kapoor",
+			"birthday": "1987-03-03",
+			"gender": "Female",
+			"married" :"NO"
+		},
+		{
+			"name": "Ranbir kapoor",
+			"birthday": "1982-09-28",
+			"gender": "Male",
+			"married" :"No"
+		},
+		{
+			"name": "Ajay Devgan",
+			"birthday": "1969-04-02",
+			"gender": "Male",
+			"married" :"Yes"
+		},
+		{
+			"name": "Deepika Padukone",
+			"birthday": "1986-01-5",
+			"gender": "Female",
+			"married" :"Yes"
+		},
+		{
+			"name": "Katrina kaif",
+			"birthday": "1983-07-16 ",
+			"gender": "Female",
+			"married" :"Yes"
+		},
+		{
+			"name": "Dwayne Johnson",
+			"birthday": "1972-03-02",
+			"gender": "Male",
+			"married" :"Yes"
+		},
+		{
+			"name": "Chris Evans",
+			"birthday": "1981-06-13",
+			"gender": "Male",
+			"married" :"Yes"
+		},
+		{
+			"name": "Gal Gadot",
+			"birthday": "1985-04-30",
+			"gender": "Female",
+			"married" :"Yes"
+		},
+		{
+			"name": "Scarlett Johnson",
+			"birthday": "1984-11-22",
+			"gender": "Female",
+			"married" :"NO"
+		}
+	]
+}
